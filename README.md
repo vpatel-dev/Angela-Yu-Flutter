@@ -7,6 +7,6 @@ Compilation of all Flutter apps from course.
 <br />
 [Mi Card Challenge Repo](https://github.com/vpatel-dev/mi-card-flutter-challenge)
 
-#Dicee 
+# Dicee 
 
 [Dicee Repo](https://github.com/vpatel-dev/dicee-flutter)
