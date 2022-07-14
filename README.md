@@ -10,3 +10,7 @@ Compilation of all Flutter apps from course.
 # Dicee 
 
 [Dicee Repo](https://github.com/vpatel-dev/dicee-flutter)
+
+# Magic 8 Ball
+
+[Magic 8 Ball Repo](https://github.com/vpatel-dev/magic-8-ball-flutter)
