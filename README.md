@@ -22,3 +22,8 @@ Compilation of all Flutter apps from course.
 # Quizzler 
 
 [Quizzler Repo](https://github.com/vpatel-dev/quizzler)
+
+# Destini
+
+[Destini Repo](https://github.com/vpatel-dev/destini)
+
