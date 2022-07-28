@@ -18,3 +18,7 @@ Compilation of all Flutter apps from course.
 # Xylophone 
 
 [Xylophone Repo](https://github.com/vpatel-dev/xylophone-flutter)
+
+# Quizzler 
+
+[Quizzler Repo](https://github.com/vpatel-dev/quizzler)
