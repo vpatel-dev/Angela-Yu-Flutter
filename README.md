@@ -14,3 +14,7 @@ Compilation of all Flutter apps from course.
 # Magic 8 Ball
 
 [Magic 8 Ball Repo](https://github.com/vpatel-dev/magic-8-ball-flutter)
+
+# Xylophone 
+
+[Xylophone Repo](https://github.com/vpatel-dev/xylophone-flutter)
